@@ -6,8 +6,6 @@ Welcome to my Quiz Application! 🎉 This project was built using the Java progr
 ## Features  
 - **Multiple-choice questions**: Each question comes with multiple answer options, and users can select their choice.  
 - **Score tracking**: The application keeps track of your score and displays it at the end.  
-- **Easy navigation**: Simple text-based interface for easy interaction.  
-- **Replay functionality** (if added): Restart the quiz to try again!  
 
 ---
 
@@ -28,6 +26,8 @@ Welcome to my Quiz Application! 🎉 This project was built using the Java progr
 
 ## Future Enhancements  
 Here are some ideas to expand this project:  
+- Easy navigation: Simple text-based interface for easy interaction.  
+- Replay functionality(if added): Restart the quiz to try again!  
 - Add a **database** to store quiz questions and high scores.  
 - Build a **web version** of the quiz using frameworks like Spring Boot.  
 - Introduce a **timer** for each question to make it more challenging.  
