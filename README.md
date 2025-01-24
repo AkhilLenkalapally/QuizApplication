@@ -42,5 +42,3 @@ Here are some ideas to expand this project:
 4. Follow the on-screen instructions to enjoy the quiz!  
 
 ---
-
-Feel free to modify this description based on your application’s features or your personal touch! Let me know if you'd like help editing or refining it further. 😊
